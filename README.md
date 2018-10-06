@@ -27,7 +27,8 @@ Execute the following command to build the libraries
 
     cmd> build_v120_x64.cmd
 
-Alternatively you can execute one command after the other
+Alternatively you can execute one command after the other:
+
     :: Create a build directory
     cmd> mkdir build && cd build
     :: Setup the VS compiler
